@@ -27,3 +27,4 @@ coverage/
 c.sh
 Gemfile.lock
 *.gem
+vendor/bundler
